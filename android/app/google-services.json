@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "929781444063",
+    "project_id": "nptypush",
+    "storage_bucket": "nptypush.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929781444063:android:c2eda7ea70826375dae86a",
+        "android_client_info": {
+          "package_name": "com.example.nptypush"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlhXff4bp9oC1Nd2VN2DBzfmJDnQdC4UQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
